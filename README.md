@@ -1,4 +1,4 @@
-## spellPowerMulti
+## SpellPowerMulti
 
 This addon displays a box with information about buffs/debuffs that affects the current damage multiplier. For example CoS gives a 1.1 multiplier. Currently only works for warlocks. Will be updating with support for Frost and Fire Mages as well as Shadow Priests. The idea is to use this in order to more easily know when to activate trinkets.
 
@@ -8,7 +8,7 @@ The current version checks the following debuffs on target:
 * Nightfall weapon proc
 * Shadow Weaving (Shadow Priest debuff)
 
-The text will turn green when a debuff is active on the target. In the case of Shadow Weaving the text will be yellow if there are 2-4 stacks and green when there are 5 stacks.
+The text will turn green when a debuff is active on the target. In the case of Shadow Weaving the text will be yellow if there are 1-4 stacks and green when there are 5 stacks.
 
 ## Screenshot
 
