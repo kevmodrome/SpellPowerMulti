@@ -10,6 +10,10 @@ The current version checks the following debuffs on target:
 
 The text will turn green when a debuff is active on the target. In the case of Shadow Weaving the text will be yellow if there are 2-4 stacks and green when there are 5 stacks.
 
+## Screenshot
+
+![Image showing the addon in action](http://i.imgur.com/RUxVkM4.jpg)
+
 ## Installation
 
 Clone the repository and extract to Addons folder. Remove "-master" from folder name.
