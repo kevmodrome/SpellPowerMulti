@@ -1,0 +1,6 @@
+##Interface:11200
+##Title: SpellPowerMulti
+##Notes: Shows what buffs/debuffs are up on the player/target and calculates how big the damage multiplier is.
+##OptionalDeps: -- Optional dependencies.
+##Dependencies:
+SpellPowerMulti.lua
